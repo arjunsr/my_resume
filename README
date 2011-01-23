@@ -1,0 +1,5 @@
+The file arjunsr_resume.tex has the source code of my curriculum vitae or resume as you want to call it.
+
+ -    res_yy.sty is the dependent file if preamble has "\documentstyle " line
+
+ -    res.cls is the dependent file if preamble has "\documentclass" line
